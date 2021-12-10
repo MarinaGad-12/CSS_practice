@@ -1,0 +1,114 @@
+/* div{
+    color:red;
+}
+h1{
+    color:red;
+} */
+/* p{
+    color:red;
+} */
+/* p{
+    color:blue;
+}
+
+#mypara{
+    color:green;
+}
+#mypara{
+    color:pink;
+}
+.colorRed{
+    color:red;
+} */
+/* 
+*{
+    color:red;
+} */
+/* p{
+    color:blue;
+}
+div,h1,#mypara{
+    font-size: 10px;
+}
+
+a[href]{
+    text-decoration: none;
+}
+#mydiv p{
+    color:blue;
+} */
+
+
+/* #mydiv{
+    color: green;
+    width: 200px;
+    background-color: burlywood;
+    border: 2px solid #ff2a3c;
+}
+#mydiv:hover{
+        color:red;
+        background-color: blueviolet;
+} */
+#mydiv.colorRed p{
+    color:green;
+}
+#mydiv p{
+    color: red;
+}
+/* ul#nav li.active a{
+    color:blue;
+    background-color: brown;
+} */
+/* ul li a{
+    color:green!important;
+
+ } 
+ /* spe = 3 */
+.active a{
+    color:yellow;
+}
+#new{
+ color:blue;
+ }
+ /* 100 */
+/* spe = 11 */
+
+.active{
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    background-color: yellow;
+    border: 2px solid blue;
+}
+/* body{
+    background-color: red;
+} */ 
+.div1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    width:100px;
+    padding:2px 5px;
+    background-color: gray;
+    margin: 2px 5px;
+    border: 2px solid black;
+}
+/* .div2:hover {
+    display: inline-block;
+
+} */
+.div2{
+  
+    width:100px;
+    padding:2px 5px;
+    background-color: blue;
+    margin: 2px 5px;
+    border: 2px solid black;
+
+}
+
+
+
